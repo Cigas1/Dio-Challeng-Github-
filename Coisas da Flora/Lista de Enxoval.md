@@ -34,7 +34,7 @@
 
 ## Transporte :car:
 
-- 01 ~~moisés ou bebê conforto 
+- 01 ~~moisés ou bebê conforto
 - 01 ~~carrinho de bebê 
 - 01 sacola para o transporte de roupas
 - 01 frasqueira
